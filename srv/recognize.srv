@@ -1,0 +1,5 @@
+Header header
+sensor_msgs/PointCloud2 cloud
+int32[] index
+---
+int32[] label

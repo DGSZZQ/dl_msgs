@@ -1,0 +1,9 @@
+Header header
+int32 points_num
+int32 cloud_num
+int32 cloud_size
+float32[] norm_points
+---
+int32 label_num
+int32 label_size
+int32[] label
